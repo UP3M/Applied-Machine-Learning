@@ -47,6 +47,9 @@ Now that we have our images and annotations added, we can Generate a Dataset Ver
 Once the dataset version is generated, we have a hosted dataset we can load directly into our notebook for easy training. Click `Export` and select the `YOLO v8 PyTorch` dataset format.
 
 ## 3. Train a Faster RCNN model using detectron2
+
+Link to Colab for Detectron 2: https://colab.research.google.com/drive/1f5boHc71qriQXU4A1KtGGl9dV6rAgnh9?usp=sharing
+
 To train our detector we take the following steps:
 
 ### 1. Install Detectron2 dependencies
@@ -64,7 +67,9 @@ To train our detector we take the following steps:
   >
 </div>
 
-## 4. Train Yolov8
+## 4. Train Yolo v8
+
+Link to Colab for Yolo v8: https://colab.research.google.com/drive/11jAfrp_1mgF60d_V7Gp_n9xpLaMUHK9v#scrollTo=oe9vkEvFABbN
 
 Before we start, to train our detector we take the following steps:
 
