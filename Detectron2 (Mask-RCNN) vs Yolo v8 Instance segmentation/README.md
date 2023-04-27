@@ -93,7 +93,7 @@ Before we start, to train our detector we take the following steps:
 
 Yolov8 and Detectron 2 are both popular object detection frameworks, but they differ in their approach and design.
 
-In terms of Mean Average Precision (mAP), which is a commonly used metric to evaluate object detection models, the performance of Yolov8 and Detectron 2 can vary depending on the specific implementation and dataset used for evaluation. Generally speaking, Detectron 2 is considered to be a state-of-the-art framework that achieves high mAP scores on many benchmark datasets. In this case, Detectron 2 achieves a mask mAP of 15.149,
+In terms of Mean Average Precision (mAP), which is a commonly used metric to evaluate object detection models, the performance of Yolov8 and Detectron 2 can vary depending on the specific implementation and dataset used for evaluation. In this case, Detectron 2 achieves a mask mAP of 30,
 
 <div align="center">
   <img
@@ -129,5 +129,5 @@ On the other hand, Detectron 2 is a more complex framework that uses a two-stage
   >
 </div>
 
-In summary, Yolov8 is faster but may not achieve the same level of mAP as Detectron 2. Detectron 2 is more accurate but may be slower. The choice between Yolov8 and Detectron 2 will depend on the specific needs and constraints of the application at hand.
+The choice between Yolov8 and Detectron 2 will depend on the specific needs and constraints of the application at hand.
 
