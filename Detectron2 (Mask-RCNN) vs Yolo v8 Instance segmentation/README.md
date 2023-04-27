@@ -102,7 +102,7 @@ In terms of Mean Average Precision (mAP), which is a commonly used metric to eva
   >
 </div>
 
-while Yolov8 achieves a bbox mAP of 0.49.
+while Yolov8 achieves a bbox mAP of 0.75.
 
 <div align="center">
   <img
