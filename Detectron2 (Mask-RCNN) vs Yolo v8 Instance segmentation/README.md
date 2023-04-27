@@ -63,7 +63,7 @@ To train our detector we take the following steps:
 <div align="center">
   <img
     width="640"
-    src="https://github.com/UP3M/Applied-Machine-Learning/blob/master/src/mask-det2-das.jpeg"
+    src="https://github.com/UP3M/Applied-Machine-Learning/blob/master/src/mask-det2-das.jpg"
   >
 </div>
 
@@ -85,7 +85,7 @@ Before we start, to train our detector we take the following steps:
 <div align="center">
   <img
     width="640"
-    src="https://github.com/UP3M/Applied-Machine-Learning/blob/master/src/yolov8-das.jpeg"
+    src="https://github.com/UP3M/Applied-Machine-Learning/blob/master/src/yolov8-das.jpg"
   >
 </div>
 
@@ -98,7 +98,7 @@ In terms of Mean Average Precision (mAP), which is a commonly used metric to eva
 <div align="center">
   <img
     width="640"
-    src="https://github.com/UP3M/Applied-Machine-Learning/blob/master/src/mask-det-map.jpeg"
+    src="https://github.com/UP3M/Applied-Machine-Learning/blob/master/src/mask-det-map.jpg"
   >
 </div>
 
@@ -107,7 +107,7 @@ while Yolov8 achieves a bbox mAP of 0.75.
 <div align="center">
   <img
     width="640"
-    src="https://github.com/UP3M/Applied-Machine-Learning/blob/master/src/yolov8-ins-seg-map.jpeg"
+    src="https://github.com/UP3M/Applied-Machine-Learning/blob/master/src/yolov8-ins-seg-map.jpg"
   >
 </div>
 
@@ -116,7 +116,7 @@ In terms of speed, Yolov8 is known for its fast inference times. It is optimized
 <div align="center">
   <img
     width="640"
-    src="https://github.com/UP3M/Applied-Machine-Learning/blob/master/src/yolov8-seg-time.jpeg"
+    src="https://github.com/UP3M/Applied-Machine-Learning/blob/master/src/yolov8-seg-time.jpg"
   >
 </div>
 
@@ -125,7 +125,7 @@ On the other hand, Detectron 2 is a more complex framework that uses a two-stage
 <div align="center">
   <img
     width="640"
-    src="https://github.com/UP3M/Applied-Machine-Learning/blob/master/src/mask-det-time.jpeg"
+    src="https://github.com/UP3M/Applied-Machine-Learning/blob/master/src/mask-det-time.jpg"
   >
 </div>
 
